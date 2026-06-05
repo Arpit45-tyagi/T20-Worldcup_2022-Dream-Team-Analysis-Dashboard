@@ -1,11 +1,11 @@
 # T20-Worldcup_2022-Dream-Team-Analysis-Dashboard
 🏏 T20 World Cup 2022 Dream Team Analysis Dashboard
 
-Overview
+#Overview
 
 This project analyzes player performances from the ICC Men's T20 World Cup 2022 using Power BI. The goal is to identify the best players for each role and build a data-driven Best Playing XI.
 
-Dashboards
+#Dashboards
 
 1. Power Hitters / Openers
 
@@ -31,15 +31,16 @@ Analysis of players contributing with both bat and ball.
 
 Selection of the strongest T20 World Cup 2022 team based on insights from all dashboards.
 
-Tools Used
+#Tools Used
 
 - Power BI
 - Power Query
 - DAX
 - Excel
 - JSON
+- Numpy
 
-Features
+#Features
 
 - Interactive dashboards
 - Role-based player selection
